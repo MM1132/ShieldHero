@@ -1,0 +1,22 @@
+{
+  "width": 10,
+  "height": 10,
+  "playerspawns": [
+    [0, 0],
+    [3, 1]
+  ],
+  "background": "background_grass.png",
+  "blocks": {
+    "wall": [
+      {"pos": [5, 5]},
+      {"pos": [5, 6]},
+      {"pos": [6, 5]}
+    ],
+    "grass": [
+      {"pos": [1, 1]},
+      {"pos": [2, 1]},
+      {"pos": [3, 1]},
+      {"pos": [4, 1]}
+    ]
+  }
+}
